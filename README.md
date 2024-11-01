@@ -17,6 +17,6 @@ Contains sections for different types of content, such as characters, environmen
 This project allows developers to reduce preparation time and focus on developing key game elements. With a pre-configured file hierarchy, assets, animations, and logic examples, this kit is ideal for accelerating development and simplifying the initial steps in creating a new project with Unreal Engine 5.4.
 
 **Support the Author:**  
-If you find the UE5.4 Starter Kit helpful and would like to support its development, consider making a donation. Your contributions will help maintain and improve the project, ensuring that it continues to meet the needs of the Unreal Engine community. You can support the author [here](https://profiwm.com.ua). 
+If you find the UE5.4 Starter Kit helpful and would like to support its development, consider making a donation. Your contributions will help maintain and improve the project, ensuring that it continues to meet the needs of the Unreal Engine community. You can support the author [here](https://discord.gg/6AGJ46hfFr). 
 
 Thank you for your support!
